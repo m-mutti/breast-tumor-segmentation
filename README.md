@@ -45,7 +45,7 @@ powershell -ExecutionPolicy ByPass -c "irm https://astral.sh/uv/install.ps1 | ie
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
+git clone https://github.com/m-mutti/breast-tumor-segmentation
 cd breast-segmentation
 ```
 
@@ -192,7 +192,7 @@ If you use this code in your research, please cite:
   title={Enhanced Breast Tumor Segmentation via Preprocessing-Optimized TransUNet},
   author={[Your Name]},
   year={2024},
-  url={[Repository URL]}
+  url={https://github.com/m-mutti/breast-tumor-segmentation}
 }
 ```
 
